@@ -1,19 +1,19 @@
 # Progetto-GEP
 
-#cognome e nome	
+#cognome e nome:
 Andrea Pesenti
 
-#titolo	
+#titolo:
 WikiGame+
 
-#descrizione	
+#descrizione:	
 App wiki a pagamento pensata per videogiochi e costantemente aggiornata, che funziona come giuda e permette di avere tutti i tipi di informazioni contentuti nel gioco relativi ai progressi personaggi, ecc...
 
-#Problema	
+#Problema:
 Mancanza di conoscenza o difficoltà di progresso all'interno del gioco
 
-#target	
+#target:
 Appassionati di videogiochi
 
-#competitors
+#competitors:
 Fandom, FextraLife,Gamepedia
