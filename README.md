@@ -36,3 +36,6 @@ La nostra visione è rendere il consumo più sostenibile, condiviso e basato sul
 
 # GANTT
 <img width="744" height="143" alt="image" src="https://github.com/user-attachments/assets/57434b60-df5d-4563-baac-f83b5797f03a" />
+
+# WBS
+<img width="1200" height="491" alt="image" src="https://github.com/user-attachments/assets/863f6573-35d6-4f4d-b182-36e32dbcec1b" />
