@@ -21,7 +21,7 @@ Giovani, collezionisti, professionisti digitali
 Vinted, Subito, Facebook Marketplace, Lendu
 
 # TABELLA DI BENCHMARKING
-[ANDREA PESENTI - tabella-di-benchmarking-per-analisi-dei-competitors.png.xlsx](https://github.com/user-attachments/files/25494335/ANDREA.PESENTI.-.tabella-di-benchmarking-per-analisi-dei-competitors.png.xlsx)
+<img width="675" height="206" alt="Screenshot 2026-02-23 165418" src="https://github.com/user-attachments/assets/a05a0744-ea57-40d9-aceb-f7c2515934a0" />
 
 # DIAGRAMMA UML 
 <img width="1010" height="438" alt="Diagramma UML di Use Case" src="https://github.com/user-attachments/assets/c1252ba2-5495-464a-8586-ea0a6091e0ba" />
