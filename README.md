@@ -19,3 +19,6 @@ Giovani, collezionisti, professionisti digitali
 
 # COMPETITORS:
 Vinted, Subito, Facebook Marketplace, Lendu
+
+# DIAGRAMMA UML 
+<img width="1010" height="438" alt="Diagramma UML di Use Case" src="https://github.com/user-attachments/assets/c1252ba2-5495-464a-8586-ea0a6091e0ba" />
