@@ -29,6 +29,9 @@ Vinted, Subito, Facebook Marketplace, Lendu
 # DIAGRAMMA UML 
 <img width="1010" height="438" alt="Diagramma UML di Use Case" src="https://github.com/user-attachments/assets/c1252ba2-5495-464a-8586-ea0a6091e0ba" />
 
+# SITO LOVABLE
+https://lovable.dev/projects/f7bd1fb6-f12f-44c1-a4b8-19ecda439551
+
 # ELEVATOR PITCH
 Ciao, sono Andrea Pesenti, fondatore di Swaply.
 Swaply è una piattaforma marketplace web e mobile che permette di acquistare, prestare e scambiare beni fisici e digitali in modo sicuro, tutto in un’unica app. Molte persone possiedono oggetti che usano poco e non hanno strumenti affidabili per prestarli o scambiarli. Swaply risolve questo problema grazie a un marketplace basato su wallet interno, sistema di garanzia e reputazione utenti, rendendo le transazioni semplici e trasparenti. Ci rivolgiamo a giovani, collezionisti e professionisti digitali e ci distinguiamo da competitor come Vinted o Subito perché integriamo scambio intelligente e prestito, non solo compravendita.
