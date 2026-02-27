@@ -24,7 +24,7 @@ Vinted, Subito, Facebook Marketplace, Lendu
 <img width="675" height="206" alt="Screenshot 2026-02-23 165418" src="https://github.com/user-attachments/assets/a05a0744-ea57-40d9-aceb-f7c2515934a0" />
 
 # ANALISI REQUISITI
-[Analisi requisiti (1).pdf](https://github.com/user-attachments/files/25494457/Analisi.requisiti.1.pdf)
+<img width="790" height="838" alt="image" src="https://github.com/user-attachments/assets/ecd15f1c-602c-4d29-aae0-fda2b0afaa8a" />
 
 # DIAGRAMMA UML 
 <img width="1010" height="438" alt="Diagramma UML di Use Case" src="https://github.com/user-attachments/assets/c1252ba2-5495-464a-8586-ea0a6091e0ba" />
