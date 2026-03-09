@@ -34,7 +34,17 @@ https://lovable.dev/projects/f7bd1fb6-f12f-44c1-a4b8-19ecda439551
 
 # ELEVATOR PITCH
 Ciao, sono Andrea Pesenti, fondatore di Swaply.
-Swaply è una piattaforma marketplace web e mobile che permette di acquistare, prestare e scambiare beni fisici e digitali in modo sicuro, tutto in un’unica app. Molte persone possiedono oggetti che usano poco e non hanno strumenti affidabili per prestarli o scambiarli. Swaply risolve questo problema grazie a un marketplace basato su wallet interno, sistema di garanzia e reputazione utenti, rendendo le transazioni semplici e trasparenti. Ci rivolgiamo a giovani, collezionisti e professionisti digitali e ci distinguiamo da competitor come Vinted o Subito perché integriamo scambio intelligente e prestito, non solo compravendita.
+
+Swaply è una piattaforma web e mobile che permette di acquistare, prestare e scambiare beni fisici e digitali in modo sicuro, tutto in un’unica app. Oggi molte persone possiedono oggetti che usano raramente: studi sulla sharing economy stimano che una famiglia europea abbia tra i 5.000 e i 10.000 euro di oggetti inutilizzati. Nonostante questo valore enorme, non esistono strumenti semplici e affidabili per prestarli o scambiarli.
+
+Swaply nasce per risolvere questo problema. La piattaforma integra un marketplace con wallet interno, sistema di garanzia e reputazione utenti, rendendo le transazioni semplici, sicure e trasparenti. A differenza di piattaforme come Vinted o Subito, che permettono solo la compravendita, Swaply introduce anche lo scambio intelligente e il prestito tra utenti, creando un vero ecosistema di condivisione.
+
+Il mercato del second-hand e della sharing economy in Europa vale già decine di miliardi di euro e continua a crescere rapidamente grazie alle nuove generazioni sempre più attente alla sostenibilità e all’uso intelligente delle risorse.
+
+Ci rivolgiamo a giovani, collezionisti e professionisti digitali che vogliono monetizzare o condividere ciò che possiedono, in modo semplice e sicuro.
+
+Per sviluppare la piattaforma, lanciare il prodotto sul mercato e raggiungere i primi utenti, Swaply sta cercando un investimento pre-seed di circa 300.000 euro, che permetterà di completare lo sviluppo tecnologico, costruire la community iniziale e validare il modello di business.
+
 La nostra visione è rendere il consumo più sostenibile, condiviso e basato sulla fiducia.
 
 # GANTT
