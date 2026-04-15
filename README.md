@@ -48,7 +48,8 @@ Per sviluppare la piattaforma, lanciare il prodotto sul mercato e raggiungere i 
 La nostra visione è rendere il consumo più sostenibile, condiviso e basato sulla fiducia.
 
 # GANTT
-<img width="744" height="143" alt="image" src="https://github.com/user-attachments/assets/57434b60-df5d-4563-baac-f83b5797f03a" />
+<img width="1189" height="320" alt="image" src="https://github.com/user-attachments/assets/6dae9d5e-0ce6-4aa7-be17-caac598a9460" />
 
 # WBS
-<img width="1200" height="491" alt="image" src="https://github.com/user-attachments/assets/863f6573-35d6-4f4d-b182-36e32dbcec1b" />
+<img width="1189" height="325" alt="Screenshot 2026-04-15 162310" src="https://github.com/user-attachments/assets/4e4ed864-a02c-40d9-b836-75a161b64043" />
+
