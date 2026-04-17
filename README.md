@@ -32,6 +32,14 @@ Vinted, Subito, Facebook Marketplace, Lendu
 # SITO LOVABLE
 https://lovable.dev/projects/f7bd1fb6-f12f-44c1-a4b8-19ecda439551
 
+# ANTEPRIMA STIO
+<img width="1307" height="627" alt="Screenshot 2026-04-17 093314" src="https://github.com/user-attachments/assets/bcbe1bc7-a6ba-4429-9bcc-8b1897be9b9d" />
+
+<img width="1315" height="805" alt="Screenshot 2026-04-17 093353" src="https://github.com/user-attachments/assets/98b05484-4436-4e1a-995c-23df5773da45" />
+
+<img width="1306" height="562" alt="Screenshot 2026-04-17 093442" src="https://github.com/user-attachments/assets/b34c2494-263d-40fd-abf3-ebf7651c2dd4" />
+
+
 # ELEVATOR PITCH
 Ciao, sono Andrea Pesenti, fondatore di Swaply.
 
