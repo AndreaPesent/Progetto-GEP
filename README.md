@@ -24,7 +24,27 @@ Vinted, Subito, Facebook Marketplace, Lendu
 <img width="675" height="206" alt="Screenshot 2026-02-23 165418" src="https://github.com/user-attachments/assets/a05a0744-ea57-40d9-aceb-f7c2515934a0" />
 
 # ANALISI REQUISITI
-<img width="790" height="838" alt="image" src="https://github.com/user-attachments/assets/ecd15f1c-602c-4d29-aae0-fda2b0afaa8a" />
+FUNZIONALI:
+  Registrazione utente
+  Catalogo: pubblicazione di prodotti con foto, descrizione e categoria
+  Ricerca avanzata con filtri (scambio, prestito, acquisto)
+  Sistema di scambio che calcola differenza di valore e gestisce il pagamento
+  Wallet interno 
+  Chat interna e notifiche
+  Storico transazioni (prestiti, scambi, acquisti)
+  Feedback e reputazione
+  Assicurazione sulle transazioni Premium
+  Pannello admin per moderazione, supporto e gestione contenuti
+NON FUNZIONALI:
+  Sicurezza dati 
+  Scalabilità server per alto numero di utenti
+  Interfaccia intuitiva e responsive
+  Integrazione pagamenti digitali (Stripe, PayPal, Satispay, ecc.)
+DOMINIO:
+	Tracciabilità delle transazioni
+	Diritti d’uso
+	Regole sugli scambi
+	Ruoli e permessi
 
 # DIAGRAMMA UML 
 <img width="1010" height="438" alt="Diagramma UML di Use Case" src="https://github.com/user-attachments/assets/c1252ba2-5495-464a-8586-ea0a6091e0ba" />
