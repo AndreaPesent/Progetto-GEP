@@ -39,6 +39,7 @@ https://lovable.dev/projects/f7bd1fb6-f12f-44c1-a4b8-19ecda439551
 
 <img width="1306" height="562" alt="Screenshot 2026-04-17 093442" src="https://github.com/user-attachments/assets/b34c2494-263d-40fd-abf3-ebf7651c2dd4" />
 
+<img width="1280" height="725" alt="Screenshot 2026-04-17 094014" src="https://github.com/user-attachments/assets/bb8bf491-5015-4800-87ad-da894734da51" />
 
 # ELEVATOR PITCH
 Ciao, sono Andrea Pesenti, fondatore di Swaply.
